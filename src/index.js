@@ -10,7 +10,6 @@ root.render(
   <React.StrictMode>
     <App />
     <Caja nombre='Sophie' apellido='Massola'></Caja>
-    <Caja nombre='Juanfe'></Caja>
   </React.StrictMode>
 );
 
