@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Bienvenida, Sophie.
         </p>
         <a
           className="App-link"
@@ -15,7 +15,16 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+         Aprende a usar React!
+        </a>
+        <br></br>
+        <a
+          className="App-link"
+          href="https://plataforma.coderhouse.com/cursos/31220/reactjs"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+         <h4>Página principal CODER</h4>
         </a>
       </header>
     </div>
